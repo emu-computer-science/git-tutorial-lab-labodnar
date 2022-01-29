@@ -1,3 +1,4 @@
-user B BBBBBBBBBBBB   This is the initial contents
+
+User A added
 of the second file that comprises
 our most excellent project.
